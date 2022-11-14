@@ -4,4 +4,9 @@ Repositorio de procesamiento natural del lenguaje CEIA 6co2022
 
 ## TP1 Word2vect
 ## TP2 ChatBot "Playa de estacionamiento"
+<<<<<<< HEAD
 ## TP3 Gemsim "Analisis de canciones -Amy Winehouse-"
+=======
+## TP3 Gemsim "Analisis de canciones -Amy Winehouse"
+## TP4 NextWord "Analisis de canciones -Amy Winehouse-Bruno Mars-Brttney Spears-"
+>>>>>>> 0f245f2 (Agrego TP4)
