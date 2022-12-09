@@ -27,7 +27,7 @@ En este script se trabajan redes RNN que transmiten la información hacia adelan
 Link: (https://github.com/SNolasco86/TP_NLP_CEIA2022/blob/main/TP4/4d%20-%20predicci%C3%B3n_palabra.ipynb)
 
 ## TP5 Clothing_ecommerce_reviews
-![img1](images/doc5.jPG)
+![img1](images/doc5.jpeg)
 #### Long short term memory
 En este script se trabajan redes LSTM que son un tipo de redes neuronales recurrentes que que consiste de múltiples puertas (gates) y son capaces de aprender dependencias a largo plazo.\ 
 Link: (https://github.com/SNolasco86/TP_NLP_CEIA2022/blob/main/TP5/5_clothing_ecommerce_reviews.ipynb)
