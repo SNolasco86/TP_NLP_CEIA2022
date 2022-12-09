@@ -4,7 +4,7 @@ Repositorio de trabajos prácticos de procesamiento natural del lenguaje CEIA 6c
 
 ## TP1 Word2vect
 
-![img1](images/doc.jpeg =250x)
+![img1](images/doc.jpeg)
 
 #### Vectorización de documentos
 Este script permite generar representaciones vectoriales o numéricas de textos a través de distintas técnicas. La capacidad de representar un texto de forma numérica es muy útil para análisis posteriores de textos, tales como comparaciones, agrupaciones y entrenamiento de modelos de clasificación, entre otros.\
@@ -12,7 +12,7 @@ Link: (https://github.com/SNolasco86/TP_NLP_CEIA2022/blob/main/TP1/1a%20-%20word
 
 ## TP2 ChatBot "Playa de estacionamiento"
 
-![img2](images/doc2.jpeg =250x)
+![img2](images/doc2.jpeg)
 
 #### Preprocesamiento de texto
 Este script contiene pasos son necesarios para transformar texto del lenguaje humano a un formato legible para máquinas para su posterior procesamiento.
@@ -20,7 +20,7 @@ Link: (https://github.com/SNolasco86/TP_NLP_CEIA2022/blob/main/TP2/TP2.ipynb)
 
 ## TP3 Gemsim "Analisis de canciones -Amy Winehouse-"
 
-![img3](images/doc3.png =250x)
+![img3](images/doc3.png)
 
 #### Word Embeddings
 Este script se busca la representación numérica de las palabras, es decir, conceptualmente implica el encaje matemático de un espacio con una dimensión por palabra a un espacio vectorial continuo con menos dimensiones.\ 
@@ -28,7 +28,7 @@ Link: (https://github.com/SNolasco86/TP_NLP_CEIA2022/blob/main/TP3/3b_Custom_emb
 
 ## TP4 NextWord "Analisis de canciones -Amy Winehouse-Bruno Mars-Brittney Spears-".
 
-![img4](images/doc4.png =250x)
+![img4](images/doc4.png)
 
 #### Redes neuronales recurrentes
 En este script se trabajan redes RNN que transmiten la información hacia adelante pero también tiene la característica de enviar la información hacia atrás. Por lo tanto, en cada paso, la neurona recurrente recibe datos de las neuronas anteriores, pero también recibe información de ella misma en el paso anterior.\ 
@@ -36,7 +36,7 @@ Link: (https://github.com/SNolasco86/TP_NLP_CEIA2022/blob/main/TP4/4d%20-%20pred
 
 ## TP5 Clothing_ecommerce_reviews
 
-![img5](images/doc5.jpeg =250x)
+![img5](images/doc5.jpeg)
 
 #### Long short term memory
 En este script se trabajan redes LSTM que son un tipo de redes neuronales recurrentes que que consiste de múltiples puertas (gates) y son capaces de aprender dependencias a largo plazo.\ 
@@ -44,7 +44,7 @@ Link: (https://github.com/SNolasco86/TP_NLP_CEIA2022/blob/main/TP5/5_clothing_ec
 
 ## TP6 QA Bot basado en un dataset QA
 
-![img6](images/doc6.png =250x)
+![img6](images/doc6.png)
 
 #### Sequence to Sequence
 En este script se trabaja principalmente con el concepto many-to-many en formato
